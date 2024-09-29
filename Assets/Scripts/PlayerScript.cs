@@ -133,9 +133,9 @@ public class PlayerScript : MonoBehaviour
         
 
         // Проверка вертикального падения и удара о землю
-        if (!isStunned && Rigidbody.velocity.y >= fallThreshold && IsGroundCollision(collision))
+        if (!isStunned && Rigidbody.linearVelocity.y >= fallThreshold && IsGroundCollision(collision))
         {
-            print(Rigidbody.velocity.y);
+            print(Rigidbody.linearVelocity.y);
             StunCharacter();
 
             foreach (var sprite in spriteRenderer)
@@ -293,7 +293,7 @@ public class PlayerScript : MonoBehaviour
     public void Restart ()
     {
         transform.position = SpawnPoint;
-        Rigidbody.velocity = Vector2.zero;
+        Rigidbody.linearVelocity = Vector2.zero;
     }
 
 

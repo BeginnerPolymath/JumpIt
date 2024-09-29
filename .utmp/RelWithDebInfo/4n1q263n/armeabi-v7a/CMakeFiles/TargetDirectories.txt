@@ -1,0 +1,5 @@
+/Users/pavelgorskov/Documents/GitHub/JumpIt/.utmp/RelWithDebInfo/4n1q263n/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/pavelgorskov/Documents/GitHub/JumpIt/.utmp/RelWithDebInfo/4n1q263n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/pavelgorskov/Documents/GitHub/JumpIt/.utmp/RelWithDebInfo/4n1q263n/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/pavelgorskov/Documents/GitHub/JumpIt/.utmp/RelWithDebInfo/4n1q263n/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/pavelgorskov/Documents/GitHub/JumpIt/.utmp/RelWithDebInfo/4n1q263n/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
